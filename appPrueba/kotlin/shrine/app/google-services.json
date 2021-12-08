@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719629871847",
+    "project_id": "dona4-f4b7a",
+    "storage_bucket": "dona4-f4b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719629871847:android:3e0c39751622ebd1075042",
+        "android_client_info": {
+          "package_name": "com.google.MisionTic2022.mdc.kotlin.Dona4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719629871847-b837tovep4sbnk7ff0s4k2katqnr4381.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56YUKNWp6zpCsGmm7g22UuTQ58kj48hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719629871847-b837tovep4sbnk7ff0s4k2katqnr4381.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
